@@ -1,3 +1,4 @@
+![Logo ATCHO e-stock](atcho-e-stock-192*192.png)
 # atcho-e-stock-v2
 Application Android de gestion de stock ATCHO e-stock
 📦 ATCHO e-stock
